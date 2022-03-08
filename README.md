@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+## 詳細
+DMM WEBCAMPの学習コンテンツアプリケーションを完成させよう 課題：アプリケーションを作成してみよう：基礎編 で作成したアプリケーションです。<br>
+テーマ：読んだ本の感想を投稿するサイト
